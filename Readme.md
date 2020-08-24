@@ -44,7 +44,7 @@ I'm a professional iOS developer based in the UK. However that is only one of my
 
 <details>
   <summary>Github Stats</summary>
-  <img align="left" alt="FlashGen's Github Stats" src="https://github-readme-stats.flashgen.vercel.app/api?username=FlashGen&show_icons=true&hide_border=true" />
+  <img align="left" alt="FlashGen's Github Stats" src="https://github-readme-stats.flashgen.vercel.app/api?username=FlashGen&show_icons=true&hide_border=true&hide_title=true&count_private=true" />
 
 </details>
 
