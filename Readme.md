@@ -8,8 +8,9 @@ I'm a professional iOS developer based in the UK. However that is only one of my
 
 - I'm currently working on [various apps][website]
 - I’m looking to collaborate with other content creators
-- I'm a massive LEGO fan
-- 2020 Goals: Collaborate on more cool things
+- building the latest and greatest from LEGO 
+- completing more of my 2020 Goals: 
+- looking to collaborate on more cool things
 
 ### Connect with me:
 [<img align="left" alt="pixadecimal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
